@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=200&section=header&text=Fadlan%20Ananda%20Firman&fontSize=35&fontColor=ffffff)
 
-<h1 align="center">Hi 👋, I'm Fadlan</h1>
 <h3 align="center">Full Stack Web & Game Developer</h3>
 
 <p align="center">
