@@ -44,16 +44,16 @@
 
 ---
 
-## Connect With Me
+## 🌐 Connect With Me
 <p align="center">
-  <a href="www.linkedin.com/in/fadlananandafirman">
+  <a href="https://www.linkedin.com/in/fadlananandafirman" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-6a0dad?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:247fadlan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-6a0dad?style=for-the-badge&logo=ggmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-6a0dad?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[www.fadlan.netlify.app.com](https://fadlan.netlify.app/)">
-    <img src="https://img.shields.io/badge/Website-6a0dad?style=for-the-badge&logo=website&logoColor=white"/>
+  <a href="https://fadlan.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-6a0dad?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
