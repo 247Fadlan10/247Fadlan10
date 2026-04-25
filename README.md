@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=200&section=header&text=Fadlan%20Ananda%20Firman&fontSize=35&fontColor=ffffff)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
+</p>
+
 <h3 align="center">Full Stack Web & Game Developer</h3>
 
 <p align="center">
