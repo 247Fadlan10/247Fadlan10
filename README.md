@@ -50,9 +50,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-6a0dad?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:247fadlan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-6a0dad?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-6a0dad?style=for-the-badge&logo=ggmail&logoColor=white"/>
   </a>
-  <a href="www.fadlan.netlify.app.com">
+  <a href="[www.fadlan.netlify.app.com](https://fadlan.netlify.app/)">
     <img src="https://img.shields.io/badge/Website-6a0dad?style=for-the-badge&logo=website&logoColor=white"/>
   </a>
 </p>
