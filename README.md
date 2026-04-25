@@ -1,16 +1,63 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=200&section=header&text=Fadlan%20Ananda%20Firman&fontSize=35&fontColor=ffffff)
 
-<!--
-**247Fadlan10/247Fadlan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Fadlan</h1>
+<h3 align="center">Full Stack Web & Game Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=25&center=true&vCenter=true&width=600&lines=Web+Developer;Game+Developer;Laravel+%7C+Unity+%7C+JavaScript;Building+Modern+Applications🚀">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 💻 Focus on **Web Development & Game Development**
+- ⚡ Tech: Laravel, JavaScript, Unity, MySQL
+- 🎯 Interested in building **modern & interactive applications**
+- 📈 Always learning new technologies
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,unity,mysql,git,github">
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=247Fadlan10&show_icons=true&theme=tokyonight">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=247Fadlan10&theme=tokyonight">
+</p>
+
+---
+
+## 🎮 My Projects
+- 🔥 Web Portfolio (Laravel / JS)
+- 🎮 Game Development (Unity)
+- 📊 System Development (Fullstack)
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-6a0dad?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-6a0dad?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
+</p>
+
+---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=120&section=footer)
