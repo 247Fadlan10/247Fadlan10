@@ -52,8 +52,8 @@
   <a href="mailto:247fadlan@gmail.com">
     <img src="https://img.shields.io/badge/Email-6a0dad?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="fadlan.netlify.app">
-    <img src="https://img.shields.io/badge/Website-6a0dad?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="www.fadlan.netlify.app.com">
+    <img src="https://img.shields.io/badge/Website-6a0dad?style=for-the-badge&logo=website&logoColor=white"/>
   </a>
 </p>
 
