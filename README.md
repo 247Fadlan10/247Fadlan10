@@ -47,7 +47,7 @@
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/fadlananandafirman">
-    <img src="https://img.shields.io/badge/L-6a0dad?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-6a0dad?style=for-the-badge&logoColor=white"/>
   </a>
   <a href="mailto:247fadlan@gmail.com">
     <img src="https://img.shields.io/badge/Email-6a0dad?style=for-the-badge&logo=gmail&logoColor=white"/>
