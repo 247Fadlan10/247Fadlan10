@@ -60,10 +60,4 @@ Full Stack Web & Game Developer yang berpengalaman dalam membangun aplikasi mode
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
-</p>
-
----
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=120&section=footer)
