@@ -9,22 +9,22 @@
 
 ---
 
-## 🚀 About Me
-- 💻 Focus on **Web Development & Game Development**
-- ⚡ Tech: Laravel, JavaScript, Unity, MySQL
-- 🎯 Interested in building **modern & interactive applications**
-- 📈 Always learning new technologies
+## About Me
+💻 Focus on **Web Development & Game Development**
+⚡ Tech: Laravel, JavaScript, Unity, MySQL
+🎯 Interested in building **modern & interactive applications**
+📈 Always learning new technologies
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,unity,mysql,git,github">
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=247Fadlan10&show_icons=true&theme=tokyonight">
 </p>
@@ -35,14 +35,14 @@
 
 ---
 
-## 🎮 My Projects
-- 🔥 Web Portfolio (Laravel / JS)
+## My Projects
+- 🔥 Web Kepesertaan Dana Pensiun Bank Sulselbar (Laravel / Boostrap / JS / MariaDB)
 - 🎮 Game Development (Unity)
 - 📊 System Development (Fullstack)
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 <p align="center">
   <a href="https://linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-6a0dad?style=for-the-badge&logo=linkedin&logoColor=white"/>
