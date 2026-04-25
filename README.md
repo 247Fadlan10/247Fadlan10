@@ -9,10 +9,7 @@
 ---
 
 ## About Me
-- 💻 Focus on Web Development & Game Development
-- ⚡ Tech: Laravel, JavaScript, Unity, MySQL
-- 🎯 Interested in building modern & interactive applications
-- 📈 Always learning new technologies
+Full Stack Web & Game Developer yang berpengalaman dalam membangun aplikasi modern, interaktif, dan scalable. Menggunakan Laravel, JavaScript, Unity, dan MySQL untuk menciptakan solusi digital yang efisien, dengan fokus pada performa dan pengalaman pengguna. Aktif mengembangkan skill dan mengikuti perkembangan teknologi terbaru.
 
 ---
 
