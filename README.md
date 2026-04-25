@@ -58,6 +58,5 @@ Full Stack Web & Game Developer yang berpengalaman dalam membangun aplikasi mode
   </a>
 </p>
 
----
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=120&section=footer)
