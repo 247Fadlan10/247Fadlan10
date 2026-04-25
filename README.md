@@ -8,7 +8,7 @@
 
 ---
 
-## About Me
+## ⚡ About Me
 💻 Focus on **Web Development & Game Development**
 ⚡ Tech: Laravel, JavaScript, Unity, MySQL
 🎯 Interested in building **modern & interactive applications**
@@ -16,14 +16,14 @@
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,unity,mysql,git,github">
 </p>
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=247Fadlan10&show_icons=true&theme=tokyonight">
 </p>
@@ -34,7 +34,7 @@
 
 ---
 
-## 🚧 Projects History
+## 📖 Projects History
 - 🔥 Web Kepesertaan Dana Penisun  (Bank Sulselbar)
 - 🔥 Web Informasi dan Absensi Peserta Magang (Bank Sulselbar)
 - 🔥 Game Edukasi Menggunakan Augmented Reality (Sekolah Filadelfia Makassar)
@@ -47,7 +47,7 @@
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/fadlananandafirman">
-    <img src="https://img.shields.io/badge/🚧LinkedIn-6a0dad?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-6a0dad?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:247fadlan@gmail.com">
     <img src="https://img.shields.io/badge/Email-6a0dad?style=for-the-badge&logo=gmail&logoColor=white"/>
