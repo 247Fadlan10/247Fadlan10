@@ -1,63 +1,90 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=200&section=header&text=Fadlan%20Ananda%20Firman&fontSize=35&fontColor=ffffff)
+## 🚀 Featured Projects
 
-<h1 align="center">Hi 👋, I'm Fadlan</h1>
-<h3 align="center">Full Stack Web & Game Developer</h3>
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=25&center=true&vCenter=true&width=600&lines=Web+Developer;Game+Developer;Laravel+%7C+Unity+%7C+JavaScript;Building+Modern+Applications🚀">
-</p>
+<img src="https://via.placeholder.com/500x250/111827/8A2BE2?text=Portfolio+Website" width="100%">
 
----
+### 💻 Portfolio Website
+Modern portfolio website dengan UI elegan dan performa tinggi.
 
-## About Me
-💻 Focus on **Web Development & Game Development**
-⚡ Tech: Laravel, JavaScript, Unity, MySQL
-🎯 Interested in building **modern & interactive applications**
-📈 Always learning new technologies
+- ⚡ Responsive Design  
+- 🎨 Clean UI/UX  
+- 🚀 Fast & Optimized  
 
----
-
-## Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,unity,mysql,git,github">
-</p>
-
----
-
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=247Fadlan10&show_icons=true&theme=tokyonight">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=247Fadlan10&theme=tokyonight">
-</p>
-
----
-
-## My Projects
-- 🔥 Web Kepesertaan Dana Pensiun Bank Sulselbar (Laravel / Boostrap / JS / MariaDB)
-- 🎮 Game Development (Unity)
-- 📊 System Development (Fullstack)
-
----
-
-## Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-6a0dad?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Live Demo-111827?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
-  <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-6a0dad?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Source Code-111827?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
----
+</td>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
+<td width="50%">
+
+<img src="https://via.placeholder.com/500x250/111827/8A2BE2?text=Unity+Game" width="100%">
+
+### 🎮 Unity Game
+Pengembangan game interaktif dengan gameplay menarik.
+
+- 🎯 Gameplay Mechanics  
+- 🧠 Interactive System  
+- 🎮 Built with Unity  
+
+<p>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Play Game-111827?style=for-the-badge&logo=unity&logoColor=white">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Source Code-111827?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
----
+</td>
+</tr>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=120&section=footer)
+<tr>
+<td width="50%">
+
+<img src="https://via.placeholder.com/500x250/111827/8A2BE2?text=Laravel+System" width="100%">
+
+### 📊 Management System
+Sistem manajemen berbasis Laravel dengan fitur lengkap.
+
+- 🔐 Authentication System  
+- 📈 Dashboard & Report  
+- 💾 Database Integration  
+
+<p>
+  <a href="#">
+    <img src="https://img.shields.io/badge/View System-111827?style=for-the-badge&logo=laravel&logoColor=white">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Source Code-111827?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+</td>
+
+<td width="50%">
+
+<img src="https://via.placeholder.com/500x250/111827/8A2BE2?text=Coming+Soon" width="100%">
+
+### 🚀 Coming Soon
+Project berikutnya sedang dalam pengembangan.
+
+- 🧠 Innovative Ideas  
+- ⚡ New Technology  
+- 🔥 More Features  
+
+<p>
+  <img src="https://img.shields.io/badge/Coming Soon-111827?style=for-the-badge">
+</p>
+
+</td>
+</tr>
+</table>
