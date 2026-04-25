@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Web & Game Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=25&center=true&vCenter=true&width=600&lines=Web+Developer;Game+Developer;Laravel+%7C+Unity+%7C+JavaScript;Building+Modern+Applications🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=25&center=true&vCenter=true&width=600&lines=Web+Developer;Game+Developer;Laravel+%7C+Unity+%7C+JavaScript;Building+Modern+Applications">
 </p>
 
 ---
