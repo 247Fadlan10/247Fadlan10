@@ -8,22 +8,22 @@
 
 ---
 
-## 🚀 About Me
-- 💻 Focus on **Web Development & Game Development**
-- ⚡ Tech: Laravel, JavaScript, Unity, MySQL
-- 🎯 Interested in building **modern & interactive applications**
-- 📈 Always learning new technologies
+## About Me
+💻 Focus on **Web Development & Game Development**
+⚡ Tech: Laravel, JavaScript, Unity, MySQL
+🎯 Interested in building **modern & interactive applications**
+📈 Always learning new technologies
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,unity,mysql,git,github">
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=247Fadlan10&show_icons=true&theme=tokyonight">
 </p>
@@ -34,14 +34,17 @@
 
 ---
 
-## 🎮 My Projects
-- 🔥 Web Portfolio (Laravel / JS)
-- 🎮 Game Development (Unity)
-- 📊 System Development (Fullstack)
+## My Projects
+- 🔥 Web Kepesertaan Dana Penisun  (Bank Sulselbar)
+- 🔥 Web Informasi dan Absensi Peserta Magang (Bank Sulselbar)
+- 🔥 Game Edukasi Menggunakan Augmented Reality (Sekolah Filadelfia Makassar)
+- 🔥 Web Managament Cafe Terinegrasi Midtrans (Day Cafe)
+- 🔥 Web Topup Game Terintegrasi Midtrans (TUGO Store)
+- 🔥 Web Learning Golang (Self-Project)
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 <p align="center">
   <a href="https://linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-6a0dad?style=for-the-badge&logo=linkedin&logoColor=white"/>
